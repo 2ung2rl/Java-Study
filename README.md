@@ -34,7 +34,7 @@
 # chapter12
   람다식
 
-# chapter13
+# chapter13,14
   스트림
 
 # chapter15
