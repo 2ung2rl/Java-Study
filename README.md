@@ -1,5 +1,3 @@
-# java-study
-
 # chapter01
   자바 기초
 
